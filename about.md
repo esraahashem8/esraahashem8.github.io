@@ -1,4 +1,3 @@
-avatar: images/me-logo.jpg
 
 ---
 layout: page
