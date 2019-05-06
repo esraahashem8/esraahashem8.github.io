@@ -11,3 +11,8 @@ title: Personal Info
 
 *Date of Birth
 19-1-1998
+
+---
+layout: post
+title: Skills
+---
