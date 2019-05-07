@@ -3,6 +3,6 @@ layout: post
 title: Courses Taken
 ---
 
-- **Front End Web Development NANODEGREE**, _Udacity_ 
-**Certificate Link:** [https://graduation.udacity.com/confirm/RVLRPMLH]
+- _Udacity_ ,Front End Web Development **NANODEGREE**,
+_**Certificate Link:**_ [https://graduation.udacity.com/confirm/RVLRPMLH]
 
