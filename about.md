@@ -10,14 +10,16 @@ A fresh graduate from Cairo University Faculty of Computer Science and AI. Seeki
 ****
 
 ### Education
->>  - **Al-Iqbal International Schools** 
+>>  - **Al-Iqbal International Schools**   
 _2011 to 2015_
 **_High School,_** _American Diploma_
 
->> - **Faculty of Computer Science and Artificial Intelligence** 
+>> - **Faculty of Computer Science and Artificial Intelligence**   
 _2015 to 2019_
 **_Cairo University,_** _Bachelor's Degree_
 
+----
+****
 
 ### Contact me
 
