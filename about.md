@@ -6,7 +6,11 @@ permalink: /about/
 
 A fresh graduate from Cairo University Faculty of Computer Science and AI. Seeking for opportunities to work on my skills. Searching for internships or part-time jobs in Web Development. Open for any other chances in different specializations. Able to Learn new technologies and features if needed for any job.
 
-### Education
+
+---
+layout: post
+title: Education
+---
 
 - **Al-Iqbal International Schools** 
 _2011 to 2015_
