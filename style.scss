@@ -108,7 +108,7 @@ strong, b {
 
 img {
   max-width: 100%;
-background-image: url('..images/me-logo.jpg');
+background-image: url('..images/me-logo');
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -169,7 +169,7 @@ background-image: url('..images/me-logo.jpg');
   width: 70px;
   height: 70px;
   margin-right: 15px;
-background-image: url('..images/me-logo.jpg');
+background-image: url('..images/me-logo');
 
   @include mobile {
     float: none;
@@ -179,7 +179,7 @@ background-image: url('..images/me-logo.jpg');
 
   img {
     border-radius: 5px;
-background-image: url('..images/me-logo.jpg');
+background-image: url('..images/me-logo');
   }
 }
 
