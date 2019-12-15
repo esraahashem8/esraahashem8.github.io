@@ -4,11 +4,11 @@ title: Personal Info
 ---
 
 - **Address:**
-Sheikh Zayed City
+Giza, Sheikh Zayed City
 
 - **Phone:**
 +201011544812
 
-- **Personal email:** 
+- **Email:** 
 souhashem8@gmail.com
 
