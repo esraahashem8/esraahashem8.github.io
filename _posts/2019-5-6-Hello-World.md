@@ -4,12 +4,11 @@ title: Personal Info
 ---
 
 - **Address:**
-2XMH+V2 Sheikh Zayed City
+Sheikh Zayed City
 
 - **Phone:**
 +201011544812
 
-- **Date of Birth:** 
-19-1-1998
-
+- **Personal email:** 
+souhashem8@gmail.com
 
