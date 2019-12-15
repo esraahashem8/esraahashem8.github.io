@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Esraa Osama
+name: Esraa Osama Abdelraouf
 
 # Short bio or description (displayed in the header)
 description:
@@ -17,8 +17,8 @@ avatar: /images/me-logo.jpg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: souhashem8@gmail.com
-  github: esraahashem8
+ 
+  github: esraaosama8
   linkedin: esraa-osama-0b2493162
 
 
